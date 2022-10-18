@@ -1,5 +1,5 @@
 # School_District_Analysis
-##Purpose
+## Purpose
 
 The purpose of this analysis is to report performance results and patterns from standardized test data. The analysis will help determine decisions on the school’s budget based on the standardized test results. It can help the school board of education more aware of the high school’s budget. The size and type can affect test results and where the financial budget is needed. As well as ensuring all data given is clean with no missing or false information and formatted correctly to be clearly understood. 
 
@@ -11,5 +11,5 @@ The purpose of this analysis is to report performance results and patterns from 
 
 * Thomas Highschool even with the scores changes of the 9th grade class is still one of the top 5 schools overall, so there wasn’t much change comparing it to other schools. It’s a charter school with a medium size schooling. The erasure of the ninth-grade class didn’t affect them much in either a positive or negative way.
 
-##Summary
+## Summary
 
